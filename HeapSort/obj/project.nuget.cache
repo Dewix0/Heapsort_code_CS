@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "otlA3XqCL0k=",
+  "dgSpecHash": "0iDPUjpCses=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oxana\\source\\repos\\heapsort\\HeapSort\\HeapSort\\HeapSort.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/daniil/Desktop/Projects/HeapSort/Heapsort_code_CS/HeapSort/HeapSort.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniil/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/daniil/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/daniil/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

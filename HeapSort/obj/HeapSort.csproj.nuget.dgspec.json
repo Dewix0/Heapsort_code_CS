@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oxana\\source\\repos\\heapsort\\HeapSort\\HeapSort\\HeapSort.csproj": {}
+    "/Users/daniil/Desktop/Projects/HeapSort/Heapsort_code_CS/HeapSort/HeapSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oxana\\source\\repos\\heapsort\\HeapSort\\HeapSort\\HeapSort.csproj": {
+    "/Users/daniil/Desktop/Projects/HeapSort/Heapsort_code_CS/HeapSort/HeapSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oxana\\source\\repos\\heapsort\\HeapSort\\HeapSort\\HeapSort.csproj",
+        "projectUniqueName": "/Users/daniil/Desktop/Projects/HeapSort/Heapsort_code_CS/HeapSort/HeapSort.csproj",
         "projectName": "HeapSort",
-        "projectPath": "C:\\Users\\oxana\\source\\repos\\heapsort\\HeapSort\\HeapSort\\HeapSort.csproj",
-        "packagesPath": "C:\\Users\\oxana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oxana\\source\\repos\\heapsort\\HeapSort\\HeapSort\\obj\\",
+        "projectPath": "/Users/daniil/Desktop/Projects/HeapSort/Heapsort_code_CS/HeapSort/HeapSort.csproj",
+        "packagesPath": "/Users/daniil/.nuget/packages/",
+        "outputPath": "/Users/daniil/Desktop/Projects/HeapSort/Heapsort_code_CS/HeapSort/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\oxana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/daniil/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +36,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         }
       },
       "frameworks": {
@@ -55,12 +53,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/daniil/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
